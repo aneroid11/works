@@ -1,6 +1,6 @@
 # My works
 
-Educational materials catalog (Python/Django)
+Educational materials catalog (Python/Django)  
 https://github.com/aneroid11/EduCatalog
 
 Ray tracer (C++/GLSL/OpenGL)  
