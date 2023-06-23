@@ -13,6 +13,7 @@ Bank system imitation (C++/Qt/SQLite)
 https://github.com/aneroid11/Bank-System
 
 Objects recognition and classification (C++/OpenCV)
+
 https://github.com/aneroid11/count-objects
 
 Drawing program for Linux (C++/Qt/JSON for modern C++)  
