@@ -27,6 +27,9 @@ https://github.com/aneroid11/ISP-2022-053502
 A database for a music streaming service with a demo application (C++/Qt/MySQL)  
 https://github.com/aneroid11/Databases
 
+UDP chat (C++)  
+https://github.com/aneroid11/Chat
+
 Wolfenstein3D-like raycasting (C++/SDL)  
 https://github.com/aneroid11/Ray-Caster
 
