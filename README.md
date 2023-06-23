@@ -3,6 +3,9 @@
 Educational materials catalog (Python/Django)  
 https://github.com/aneroid11/EduCatalog
 
+Online chess  
+https://github.com/aneroid11/chessonline
+
 Ray tracer (C++/GLSL/OpenGL)  
 https://github.com/aneroid11/ray_tracer 
 
