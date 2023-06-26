@@ -1,37 +1,15 @@
 # My works
 
-Educational materials catalog (Python/Django)  
-https://github.com/aneroid11/EduCatalog
-
-Online chess  
-https://github.com/aneroid11/chessonline
-
-Ray tracer (C++/GLSL/OpenGL)  
-https://github.com/aneroid11/ray_tracer 
-
-Turn-based RPG (C++/SFML)  
-https://github.com/aneroid11/TurnBasedRPG
-
-Bank system imitation (C++/Qt/SQLite)  
-https://github.com/aneroid11/Bank-System
-
-Objects recognition and classification (C++/OpenCV)  
-https://github.com/aneroid11/count-objects
-
-Drawing program for Linux (C++/Qt/JSON for modern C++)  
-https://github.com/aneroid11/Paint
-
-Python object serializer (JSON, YAML, TOML)  
-https://github.com/aneroid11/ISP-2022-053502
-
-A database for a music streaming service with a demo application (C++/Qt/MySQL)  
-https://github.com/aneroid11/Databases
-
-UDP chat (C++)  
-https://github.com/aneroid11/Chat
-
-Wolfenstein3D-like raycasting (C++/SDL)  
-https://github.com/aneroid11/Ray-Caster
-
-3D game in C++/OpenGL/GLM  
-https://github.com/aneroid11/Cubes
+* [Educational materials catalog](https://github.com/aneroid11/EduCatalog) (Python/Django)  
+* [Online chess](https://github.com/aneroid11/chessonline)  
+* [Ray tracer](https://github.com/aneroid11/ray_tracer) (C++/GLSL/OpenGL)  
+* [Turn-based RPG](https://github.com/aneroid11/TurnBasedRPG) (C++/SFML)  
+* [Bank system imitation](https://github.com/aneroid11/Bank-System) (C++/Qt/SQLite)  
+* [Objects recognition and classification](https://github.com/aneroid11/count-objects) (C++/OpenCV)  
+* [Drawing program for Linux](https://github.com/aneroid11/Paint) (C++/Qt/JSON for modern C++)  
+* [Python object serializer](https://github.com/aneroid11/ISP-2022-053502) (JSON, YAML, TOML)  
+* [A database for a music streaming service with a demo application](https://github.com/aneroid11/Databases) (C++/Qt/MySQL)  
+* [UDP chat](https://github.com/aneroid11/Chat) (C++/Socket)  
+* [Wolfenstein3D-like raycasting](https://github.com/aneroid11/Ray-Caster) (C++/SDL)  
+* [3D game](https://github.com/aneroid11/Cubes) (C++/OpenGL/GLM)
+* [Unit conversion app and a workout timer](https://github.com/aneroid11/SoftwareDesignLabs) (Android/Kotlin)  
