@@ -1,7 +1,7 @@
 # My works
 
 * [Educational materials catalog](https://github.com/aneroid11/EduCatalog) (Python/Django)  
-* [Online chess](https://github.com/aneroid11/chessonline)  
+* [Online chess](https://github.com/aneroid11/chessonline) (HTML/CSS, JS)  
 * [Ray tracer](https://github.com/aneroid11/ray_tracer) (C++/GLSL/OpenGL)  
 * [Turn-based RPG](https://github.com/aneroid11/TurnBasedRPG) (C++/SFML)  
 * [Bank system imitation](https://github.com/aneroid11/Bank-System) (C++/Qt/SQLite)  
