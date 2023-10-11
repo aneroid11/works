@@ -1,5 +1,8 @@
 # My works
 
+* [Kerberos protocol imitation](https://github.com/aneroid11/Kerberos) (Python)  
+* [UDP chat](https://github.com/aneroid11/Chat) (C++/Socket)  
+* [A database for a music streaming service with a demo application](https://github.com/aneroid11/Databases) (C++/Qt/MySQL)  
 * [Educational materials catalog](https://github.com/aneroid11/EduCatalog) (Python/Django)  
 * [Online chess](https://github.com/aneroid11/chessonline) (HTML/CSS, JS)  
 * [Ray tracer](https://github.com/aneroid11/ray_tracer) (C++/GLSL/OpenGL)  
@@ -8,8 +11,6 @@
 * [Objects recognition and classification](https://github.com/aneroid11/count-objects) (C++/OpenCV)  
 * [Drawing program for Linux](https://github.com/aneroid11/Paint) (C++/Qt/JSON for modern C++)  
 * [Python object serializer](https://github.com/aneroid11/ISP-2022-053502) (JSON, YAML, TOML)  
-* [A database for a music streaming service with a demo application](https://github.com/aneroid11/Databases) (C++/Qt/MySQL)  
-* [UDP chat](https://github.com/aneroid11/Chat) (C++/Socket)  
 * [Wolfenstein3D-like raycasting](https://github.com/aneroid11/Ray-Caster) (C++/SDL)  
 * [3D game](https://github.com/aneroid11/Cubes) (C++/OpenGL/GLM)
 * [Unit conversion app and a workout timer](https://github.com/aneroid11/SoftwareDesignLabs) (Android/Kotlin)  
